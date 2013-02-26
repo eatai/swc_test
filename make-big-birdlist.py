@@ -1,3 +1,4 @@
+# AUTHOR Titus Brown
 birdnames = """\
 Common Teal
 Long-tailed Duck
